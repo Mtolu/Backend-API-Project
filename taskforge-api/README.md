@@ -119,8 +119,8 @@ GET /api/tasks?status=todo&priority=high
 GET /api/tasks?search=login
 
 License
-The project is licensed under DIGIHUB TECHNOLOGY AND SOLUTION for educational purposes, therefore any form transfer for malicious use is high prohibited under the
-LAW, if you are caught using this piece App for malicious work you will be liable and legally responsible under the punishiment of the criminal LAW
+The project is licensed under DIGIHUB TECHNOLOGY AND SOLUTION for educational purposes, therefore any form of transfer for malicious use is high prohibited under the
+LAW, if you are caught using this piece of App for malicious work you will be liable and legally responsible under the punishiment of the criminal LAW.
 
 Contact
 oluvan206@gmail.com
