@@ -70,7 +70,7 @@ npm
 INSTALLATION
 Clone the repositry on github
 
-1   git clone Mtolu/Backend-API-Project: TASKFORGE API
+1   git clone [Mtolu/Backend-API-Project: TASKFORGE API](https://github.com/Mtolu/Backend-API-Project)
 
 2   Navigate to the project directory (clone copy)
 
